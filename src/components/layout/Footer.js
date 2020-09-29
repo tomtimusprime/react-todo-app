@@ -4,7 +4,7 @@ export default function Footer() {
     return (
         <div>
             <footer style={footerStyle}>
-                <h1>Copyright Tom Black</h1>
+                <h3>Copyright Tom Black</h3>
             </footer>
         </div>
     )
